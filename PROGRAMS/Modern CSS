@@ -1,0 +1,6 @@
+<div class="card"><label><input type="checkbox"> Select</label><p>Hello</p></div>
+<div class="wrapper"><div class="card">Card</div></div>
+.card:has(input:checked){background:lightgreen;}
+.card{margin-inline-start:1rem;margin-inline-end:1rem;}
+.wrapper{container-type:inline-size;}
+@container (min-width:400px){.card{display:flex;}}
