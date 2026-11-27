@@ -1,0 +1,4 @@
+<div class="toolbar"><b>Logo</b>
+<div><button>Home</button><button>About</button><button>Login</button></div></div>
+.toolbar{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+
