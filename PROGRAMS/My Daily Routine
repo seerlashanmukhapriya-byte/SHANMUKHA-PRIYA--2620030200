@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><head><title>Routine</title></head>
+<body>
+ <ul><li>Reading</li>
+ <li>Music</li>
+ <li>Drawing</li>
+ <li>Cooking</li>
+ <li>Walking<ul>
+ <li>Morning</li>
+ <li>Evening</li>
+ <li>Park</li></ul></li></ul>
+<ol><li>Wake up</li><li>Brush</li><li>Exercise</li><li>Bath</li><li>Breakfast</li></ol>
+<dl><dt>HTML</dt><dd>Structure</dd><dt>CSS</dt><dd>Style</dd><dt>JS</dt><dd>Behaviour</dd></dl>
+</body></html>
