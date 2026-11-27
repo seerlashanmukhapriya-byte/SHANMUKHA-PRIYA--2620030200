@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html><head><title>About Me</title></head>
+<body>
+<p><b>Surekha</b>
+<i>happy</i> 
+<u>underlined</u> 
+<strong>important</strong>
+<em>emphasized</em> 
+<mark>highlight</mark>
+<small>small</small></p>
+<p>H<sub>2</sub>O, 10<sup>2</sup>=100</p>
+</body></html>
