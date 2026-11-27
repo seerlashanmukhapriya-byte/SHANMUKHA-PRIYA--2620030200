@@ -1,0 +1,4 @@
+<body><button onclick="document.body.classList.toggle('dark')">Dark Mode</button><div class="card">Hello</div></body>
+:root{--brand:rebeccapurple;--surface:white;--spacing:1rem;--radius:10px;}
+.card{background:var(--surface);padding:var(--spacing);border-radius:var(--radius);border:2px solid var(--brand);}
+.dark{--surface:#222;--brand:gold;color:white;}
