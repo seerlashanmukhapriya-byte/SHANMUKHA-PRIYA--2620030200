@@ -1,0 +1,6 @@
+<div class="product-card"><img class="product-card__image" src="https://picsum.photos/200" width="100"><h3 class="product-card__title">Shoes</h3><p class="product-card__price">₹999</p></div>
+<div class="product-card product-card--featured"><h3 class="product-card__title">Featured Shoes</h3><p class="product-card__price">₹799</p></div>
+.product-card{padding:1rem;border:1px solid #ccc;}
+.product-card__title{font-size:1.2rem;}
+.product-card--featured{border:2px solid rebeccapurple;}
+.product-card:hover{box-shadow:0 4px 10px #aaa;}
