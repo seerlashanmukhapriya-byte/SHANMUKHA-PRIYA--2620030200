@@ -1,0 +1,6 @@
+<button class="btn">Click Me</button><div class="box">Box</div>
+.btn{transition:background .3s ease,transform .3s ease;}
+.btn:hover{background:indigo;color:white;transform:scale(1.05);}
+@keyframes slide{from{transform:translateX(0);}to{transform:translateX(200px);}}
+.box{animation:slide 2s infinite alternate;background:gold;width:80px;padding:1rem;}
+@media (prefers-reduced-motion:reduce){.box,.btn{animation:none;transition:none;}}
