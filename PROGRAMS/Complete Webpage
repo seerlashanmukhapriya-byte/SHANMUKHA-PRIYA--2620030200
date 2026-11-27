@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><head><title>Final</title></head>
+<body>
+<header><h1>My Website</h1></header>
+<nav><a href="#">Home</a> | <a href="#">About</a> | <a href="#">Contact</a></nav>
+<main>
+<section><h2>About Me</h2><p>I am Surekha.</p><img src="https://picsum.photos/200" width="150"><ul><li>Reading</li><li>Music</li><li>Drawing</li></ul></section>
+<section><h2>My Marks</h2><table border="1"><tr><th>Name</th><th>Marks</th></tr><tr><td>Asha</td><td>90</td></tr><tr><td>Ravi</td><td>85</td></tr><tr><td>Priya</td><td>95</td></tr></table></section>
+<article><h3>News</h3><p>Completed HTML lab.</p></article>
+</main>
+<form>Name: <input type="text"> Email: <input type="email"> <input type="submit" value="Submit"></form>
+<footer><p>Copyright 2026 - Surekha</p></footer>
+</body></html>
+
