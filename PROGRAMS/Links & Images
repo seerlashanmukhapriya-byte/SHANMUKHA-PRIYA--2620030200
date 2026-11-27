@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html><head><title>Links</title></head>
+<body>
+<a href="https://www.google.com">Google</a><br>
+<a href="https://www.yourcollege.com">College</a><br>
+<a href="ex1.html">Ex1 Page</a><br>
+<img src="https://picsum.photos/200" alt="Random" width="200"><br>
+<img src="myphoto.jpg" alt="My Photo" width="200"><br>
+<a href="https://www.google.com"><img src="https://picsum.photos/200" alt="Click" width="200"></a>
+</body></html>
