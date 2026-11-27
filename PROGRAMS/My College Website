@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html><head><title>College</title></head>
+<body>
+<header><h1>My College Website</h1></header>
+<nav><a href="#">Home</a> | <a href="#">About</a> | <a href="#">Contact</a></nav>
+<main><section><h2>Welcome Students</h2><p>Welcome.</p></section>
+<article><h3>Latest News</h3><p>Exams next week.</p></article></main>
+<footer><p>Copyright 2026</p></footer>
+</body></html>
