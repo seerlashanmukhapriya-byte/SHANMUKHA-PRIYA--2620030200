@@ -1,0 +1,4 @@
+<div class="layout"><div>Left</div><div>Right</div></div>
+.layout{display:grid;grid-template-columns:1fr;gap:1rem;}
+@media (min-width:48rem){
+.layout{grid-template-columns:2fr 1fr;}
