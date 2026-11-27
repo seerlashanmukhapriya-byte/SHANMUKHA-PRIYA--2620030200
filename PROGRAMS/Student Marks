@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html><head><title>Marks</title></head>
+<body>
+<table border="1"><caption>Student Marks</caption>
+<tr><th>Name</th><th>Subject</th><th>Marks</th></tr>
+<tr><td>Asha</td><td>HTML</td><td>90</td></tr>
+<tr><td>Ravi</td><td>HTML</td><td>85</td></tr>
+<tr><td>Priya</td><td rowspan="2">HTML<br>CSS</td><td>95</td></tr>
+<tr><td>Priya</td><td>88</td></tr>
+</table>
+</body></html>
